@@ -1,7 +1,7 @@
 package com.abdodaoud.ribbit;
 
 /**
- * Created by Abdo Daoud on 10/18/14.
+ * Created by abdodaoud on 10/18/14.
  */
 public final class ParseConstants {
     // Class name
