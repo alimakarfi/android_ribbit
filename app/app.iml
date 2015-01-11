@@ -114,8 +114,8 @@
     <orderEntry type="library" exported="" name="deprecated-list" level="project" />
     <orderEntry type="library" exported="" name="ParseQueryAdapter" level="project" />
     <orderEntry type="library" exported="" name="1_ParseQueryAdapter" level="project" />
-    <orderEntry type="library" exported="" name="index-all" level="project" />
     <orderEntry type="library" exported="" name="index" level="project" />
+    <orderEntry type="library" exported="" name="index-all" level="project" />
     <orderEntry type="library" exported="" name="ParseQueryAdapter.QueryFactory" level="project" />
     <orderEntry type="library" exported="" name="1_ParseQueryAdapter.QueryFactory" level="project" />
     <orderEntry type="library" exported="" name="ParseQueryAdapter.OnQueryLoadListener" level="project" />
@@ -142,6 +142,7 @@
     <orderEntry type="library" exported="" name="1_ParseCloud" level="project" />
     <orderEntry type="library" exported="" name="GetDataCallback" level="project" />
     <orderEntry type="library" exported="" name="1_GetDataCallback" level="project" />
+    <orderEntry type="library" exported="" name="commons-io-2.4" level="project" />
     <orderEntry type="library" exported="" name="ParseFacebookUtils" level="project" />
     <orderEntry type="library" exported="" name="1_ParseFacebookUtils" level="project" />
     <orderEntry type="library" exported="" name="ParseException" level="project" />
