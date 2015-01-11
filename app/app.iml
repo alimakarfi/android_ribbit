@@ -93,6 +93,7 @@
     <orderEntry type="library" exported="" name="overview-tree" level="project" />
     <orderEntry type="library" exported="" name="ParseAnonymousUtils" level="project" />
     <orderEntry type="library" exported="" name="1_ParseAnonymousUtils" level="project" />
+    <orderEntry type="library" exported="" name="okio-1.2.0" level="project" />
     <orderEntry type="library" exported="" name="Parse-1.7.1" level="project" />
     <orderEntry type="library" exported="" name="PushService" level="project" />
     <orderEntry type="library" exported="" name="1_PushService" level="project" />
@@ -102,10 +103,10 @@
     <orderEntry type="library" exported="" name="LocationCallback" level="project" />
     <orderEntry type="library" exported="" name="1_LocationCallback" level="project" />
     <orderEntry type="library" exported="" name="support-v4-20.0.0" level="project" />
-    <orderEntry type="library" exported="" name="ParseACL" level="project" />
-    <orderEntry type="library" exported="" name="1_ParseACL" level="project" />
     <orderEntry type="library" exported="" name="ParsePush" level="project" />
     <orderEntry type="library" exported="" name="1_ParsePush" level="project" />
+    <orderEntry type="library" exported="" name="ParseACL" level="project" />
+    <orderEntry type="library" exported="" name="1_ParseACL" level="project" />
     <orderEntry type="library" exported="" name="help-doc" level="project" />
     <orderEntry type="library" exported="" name="Parse-1.7.1.jar" level="project" />
     <orderEntry type="library" exported="" name="ParsePushBroadcastReceiver" level="project" />
@@ -120,6 +121,7 @@
     <orderEntry type="library" exported="" name="1_ParseQueryAdapter.QueryFactory" level="project" />
     <orderEntry type="library" exported="" name="ParseQueryAdapter.OnQueryLoadListener" level="project" />
     <orderEntry type="library" exported="" name="1_ParseQueryAdapter.OnQueryLoadListener" level="project" />
+    <orderEntry type="library" exported="" name="okhttp-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="DeleteCallback" level="project" />
     <orderEntry type="library" exported="" name="1_DeleteCallback" level="project" />
     <orderEntry type="library" exported="" name="SignUpCallback" level="project" />
@@ -142,6 +144,7 @@
     <orderEntry type="library" exported="" name="1_ParseCloud" level="project" />
     <orderEntry type="library" exported="" name="GetDataCallback" level="project" />
     <orderEntry type="library" exported="" name="1_GetDataCallback" level="project" />
+    <orderEntry type="library" exported="" name="okhttp-urlconnection-2.2.0" level="project" />
     <orderEntry type="library" exported="" name="commons-io-2.4" level="project" />
     <orderEntry type="library" exported="" name="ParseFacebookUtils" level="project" />
     <orderEntry type="library" exported="" name="1_ParseFacebookUtils" level="project" />

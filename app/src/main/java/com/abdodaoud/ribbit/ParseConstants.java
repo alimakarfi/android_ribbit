@@ -20,4 +20,7 @@ public final class ParseConstants {
     public static final String TYPE_IMAGE = "image";
     public static final String TYPE_VIDEO = "video";
 
+    public static final String API_MASTER_KEY = "UU02BfeKLDb4yhmv6kSrb8vlWyleDtNTiGvt4ZlK";
+    public static final String API_APP_ID = "aLIN0fzyVrRwKGLnZ730ApLFqIrx0jdlkX6LbpAe";
+
 }
