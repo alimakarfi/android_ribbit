@@ -11,6 +11,6 @@ public class RibbitApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Parse.initialize(this, ParseConstants.API_APP_ID, ParseConstants.API_MASTER_KEY);
+        Parse.initialize(this, ParseConstants.API_APP_ID, ParseConstants.API_CLIENT_KEY);
     }
 }

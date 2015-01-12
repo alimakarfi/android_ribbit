@@ -22,5 +22,6 @@ public final class ParseConstants {
 
     public static final String API_MASTER_KEY = "UU02BfeKLDb4yhmv6kSrb8vlWyleDtNTiGvt4ZlK";
     public static final String API_APP_ID = "aLIN0fzyVrRwKGLnZ730ApLFqIrx0jdlkX6LbpAe";
+    public static final String API_CLIENT_KEY = "LcxAEINEgLrB1BxqpwInZeFfCT81FBs3sDGCZwpR";
 
 }
