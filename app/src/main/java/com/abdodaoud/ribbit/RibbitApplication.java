@@ -2,6 +2,7 @@ package com.abdodaoud.ribbit;
 
 import android.app.Application;
 
+import com.abdodaoud.ribbit.utils.ParseConstants;
 import com.parse.Parse;
 
 /**

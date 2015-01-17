@@ -1,4 +1,4 @@
-package com.abdodaoud.ribbit;
+package com.abdodaoud.ribbit.ui;
 
 import android.app.ActionBar;
 import android.app.AlertDialog;
@@ -18,6 +18,9 @@ import android.view.MenuItem;
 import android.view.Window;
 import android.widget.Toast;
 
+import com.abdodaoud.ribbit.utils.ParseConstants;
+import com.abdodaoud.ribbit.R;
+import com.abdodaoud.ribbit.adapters.SectionsPagerAdapter;
 import com.parse.ParseAnalytics;
 import com.parse.ParseUser;
 

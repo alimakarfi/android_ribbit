@@ -1,4 +1,4 @@
-package com.abdodaoud.ribbit;
+package com.abdodaoud.ribbit.utils;
 
 /**
  * Created by abdodaoud on 10/18/14.

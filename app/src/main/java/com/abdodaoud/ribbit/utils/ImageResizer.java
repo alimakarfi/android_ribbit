@@ -1,4 +1,4 @@
-package com.abdodaoud.ribbit;
+package com.abdodaoud.ribbit.utils;
 
 import java.io.ByteArrayOutputStream;
 
