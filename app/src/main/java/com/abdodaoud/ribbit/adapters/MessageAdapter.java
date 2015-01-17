@@ -63,7 +63,6 @@ public class MessageAdapter extends ArrayAdapter<ParseObject> {
         }
         holder.nameLabel.setText(message.getString(ParseConstants.KEY_SENDER_NAME));
 
-
         return convertView;
     }
 
